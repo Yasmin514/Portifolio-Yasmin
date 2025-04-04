@@ -32,8 +32,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semes
 
 ## 🎓 **Cursos Complementares**
 
-- **Python - Senai (Cursando)**\
-  Desenvolvimento de habilidades avançadas em programação com foco em automação e análise de dados.
 - **Power BI - Fundação Bradesco (Iniciante)**\
   Criação de dashboards e análise de dados.
 - **Inglês - Wise Up (Cursando)**\
