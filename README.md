@@ -32,6 +32,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente no 3º semes
 
 ## 🎓 **Cursos Complementares**
 
+- **Java - Plataforma Dio (Cursando)**\
+  Desenvolvimento de habilidades em Java e programação.
 - **Power BI - Fundação Bradesco (Iniciante)**\
   Criação de dashboards e análise de dados.
 - **Inglês - Wise Up (Cursando)**\
